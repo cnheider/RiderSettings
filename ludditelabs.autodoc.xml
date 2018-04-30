@@ -1,0 +1,6 @@
+<application>
+  <component name="LudditeLabsAutodoc">
+    <option name="canCollectStatistics" value="false" />
+    <option name="showStatisticsNotification" value="false" />
+  </component>
+</application>

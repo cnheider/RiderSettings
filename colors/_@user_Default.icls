@@ -1,0 +1,28 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0833334" />
+  <metaInfo>
+    <property name="created">2017-01-07T18:04:48</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-08-15T09:50:19</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f8f8f8" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -1,0 +1,10 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="AlchemyModelDependency" categories="Fields" />
+        <entry id="Python" categories="Methods;Inner Classes;Fields" />
+      </map>
+    </option>
+  </component>
+</application>

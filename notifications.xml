@@ -1,0 +1,13 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin" displayType="NONE" />
+    <notification groupId=".ignore plugin update information" displayType="NONE" />
+    <notification groupId="IGNORE_GROUP_UPDATE" displayType="NONE" shouldLog="false" />
+    <notification groupId="Remote Desktop" displayType="NONE" shouldLog="false" />
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Messages" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Notifications" displayType="NONE" shouldLog="false" />
+    <notification groupId="Web Deployment" displayType="NONE" shouldLog="false" />
+    <notification groupId="Web Deployment: Remote Host" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
