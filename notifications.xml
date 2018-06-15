@@ -2,7 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId=".ignore plugin" displayType="NONE" />
     <notification groupId=".ignore plugin update information" displayType="NONE" />
-    <notification groupId="File type recognized" shouldLog="false" />
+    <notification groupId="File type recognized" displayType="NONE" />
     <notification groupId="IGNORE_GROUP_UPDATE" displayType="NONE" shouldLog="false" />
     <notification groupId="Remote Desktop" displayType="NONE" shouldLog="false" />
     <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldLog="false" />
