@@ -21,4 +21,7 @@
     <option name="collapseMultilineComments" value="true" />
     <option name="COLLAPSE_MULTILINE_COMMENTS" value="true" />
   </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
 </application>
