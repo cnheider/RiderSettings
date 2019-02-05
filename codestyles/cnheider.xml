@@ -26,4 +26,7 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <stylecop>
+    <option name="ENABLED" value="true" />
+  </stylecop>
 </code_scheme>
