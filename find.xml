@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="File '.../Assets/droid/Runtime/Prototyping/Observers/Rays/AdjacencyObserver.cs'" />
+    <option name="defaultScopeName" value="File '.../Assets/droid/Runtime/Prototyping/Observers/Rays/AdjacencyObserver.cs'" />
+    <option name="SEARCH_SCOPE" value="File '.../Assets/droid/Runtime/Prototyping/Observers/Rays/AdjacencyObserver.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
