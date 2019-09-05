@@ -1,5 +1,6 @@
 <application>
   <component name="VcsApplicationSettings">
     <option name="ENABLE_PARTIAL_CHANGELISTS" value="false" />
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
