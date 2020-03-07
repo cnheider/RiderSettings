@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
     <option name="SHOW_STATUS_BAR" value="false" />
   </component>
