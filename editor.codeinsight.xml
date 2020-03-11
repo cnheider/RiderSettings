@@ -1,4 +1,7 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="OCCodeFoldingSettings">
     <option name="collapseMultilineComments" value="true" />
     <option name="COLLAPSE_MULTILINE_COMMENTS" value="true" />
