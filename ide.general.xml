@@ -27,5 +27,7 @@
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="suppress.focus.stealing.disable.auto.request.focus" value="true" />
+    <entry key="suppress.focus.stealing.active.window.checks" value="true" />
   </component>
 </application>
