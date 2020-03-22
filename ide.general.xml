@@ -26,11 +26,9 @@
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
-    <entry key="suppress.focus.stealing" value="true" />
-    <entry key="suppress.focus.stealing.linux" value="true" />
-    <entry key="suppress.focus.stealing.auto.request.focus" value="true" />
+    <entry key="suppress.focus.stealing" value="false" />
+    <entry key="suppress.focus.stealing.linux" value="false" />
+    <entry key="suppress.focus.stealing.auto.request.focus" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
-    <entry key="suppress.focus.stealing.disable.auto.request.focus" value="true" />
-    <entry key="suppress.focus.stealing.active.window.checks" value="true" />
   </component>
 </application>
