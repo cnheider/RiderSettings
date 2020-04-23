@@ -25,10 +25,16 @@
     <entry key="ide.svg.icon" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
-    <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
     <entry key="suppress.focus.stealing" value="false" />
     <entry key="suppress.focus.stealing.linux" value="false" />
     <entry key="suppress.focus.stealing.auto.request.focus" value="false" />
+    <entry key="ide.borderless.title.debug" value="true" />
+    <entry key="ide.title.debug" value="true" />
+    <entry key="debugger.new.debug.tool.window.view" value="true" />
+    <entry key="ide.tooltip.showAllSeverities" value="true" />
+    <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
+    <entry key="show.log.as.editor.tab" value="false" />
+    <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
