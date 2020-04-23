@@ -33,8 +33,8 @@
     <entry key="debugger.new.debug.tool.window.view" value="true" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="show.diff.preview.as.editor.tab.with.single.click" value="true" />
-    <entry key="show.log.as.editor.tab" value="false" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
+    <entry key="show.log.as.editor.tab" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
