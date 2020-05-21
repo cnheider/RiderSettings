@@ -30,4 +30,9 @@
     <option name="collapseMultilineComments" value="true" />
     <option name="COLLAPSE_MULTILINE_COMMENTS" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+  </component>
 </application>
